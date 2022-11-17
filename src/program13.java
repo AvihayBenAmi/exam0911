@@ -11,7 +11,7 @@ public class program13 {
             for(int j=1;j<=number;j++){
                 System.out.print(j*i+"\t");
             }
-            System.out.println(" ");
+            System.out.println();
         }
     }
 }
